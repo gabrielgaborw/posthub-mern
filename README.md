@@ -1,2 +1,2 @@
-# Posthub
-Posthub is a full stack project built using the MERN stack.
+# PostHub
+PostHub is a full stack social media app built using the MERN stack.
