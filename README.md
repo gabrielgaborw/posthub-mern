@@ -22,6 +22,6 @@ PostHub is a full stack social media app built using the MERN stack.
 
    - On the other terminal navigate to **`.../server/`**.
 
-   - Use the command ### `npm start` on both of them.
+   - Use the command **`npm start`** on both of them.
   
 **5.** Done!
