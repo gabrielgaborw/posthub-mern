@@ -13,7 +13,7 @@ PostHub is a full stack social media app built using the MERN stack.
 
 **3.** Go to the `.../server/` folder, create an empty file and name it **`.env`**. Here we will make the connection to the database.
 
-   - On the first line of the file put **`PORT = <number>`**, where `<number>` is a port of your choosing, witohut the `<>`.
+   - On the first line of the file put **`PORT = <number>`**, where `<number>` is a port of your choosing, witohut `<>`.
 
    - On the second line put **`CONNECTION_URL = <connection string>`**, and for `<connection string>` we will be using the one we got from MongoDB. After this we can save and close the file.
 
